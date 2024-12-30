@@ -1,6 +1,6 @@
-### NAME : JAYASURYA B
-### REG NO. 24001758
-### EXPERIMENT 1 : Study of logic gates
+# NAME : JAYASURYA B
+# REG NO. 24001758
+# EXPERIMENT 1 : Study of logic gates
 
 # AIM: 
 
@@ -26,7 +26,7 @@ Y= A.B
 The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation.
 Y= A+B
 
-**NOT gate**
+# NOT gate
 
 The NOT gate is an electronic circuit that produces an inverted version of the input at its output. It is also known as an inverter. If the input variable is A, the inverted output is known as NOT A. This is also shown as A' or A with a bar over the top, as shown at the outputs.
 Y= A'
