@@ -1,5 +1,5 @@
-# NAME : JAYASURYA B
-# REG NO. 24001758
+### NAME : JAYASURYA B
+### REG NO. 24001758
 # EXPERIMENT 1 : Study of logic gates
 
 # AIM: 
